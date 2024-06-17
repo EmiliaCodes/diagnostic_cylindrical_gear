@@ -30,3 +30,6 @@ The project is developed using LabVIEW, using **parallel loops**, communicating 
 - **Functional Global Variable**: ensures smooth communication with the UI
 
 ## Screenshots
+![obraz](screenshots/main_interface.png)
+---
+![obraz](screenshots/manual.png)
